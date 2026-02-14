@@ -77,7 +77,7 @@ export const SceneVisuals: React.FC<SceneVisualsProps> = ({
     top: 60,
     left: 80,
     right: 80,
-    bottom: 180,
+    bottom: 500,
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
