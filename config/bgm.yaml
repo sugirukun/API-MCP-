@@ -1,0 +1,5 @@
+- src: "かえるのピアノ.mp3"
+  volume: 0.3
+  loop: true
+  fadeIn: 30
+  fadeOut: 30

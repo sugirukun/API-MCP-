@@ -41,7 +41,15 @@ export interface BGMTrack {
 export const bgmConfig: BGMConfig | null = null;
 
 // BGMトラック一覧
-export const bgmTracks: BGMTrack[] = [];
+export const bgmTracks: BGMTrack[] = [
+  {
+    "src": "かえるのピアノ.mp3",
+    "volume": 0.3,
+    "loop": true,
+    "fadeIn": 30,
+    "fadeOut": 30
+  }
+];
 
 // セリフデータの型定義
 export interface ScriptLine {
